@@ -1,0 +1,7 @@
+﻿  DES.cpp
+C:\Users\Lipczan\Desktop\DES\DES\DES.cpp(228,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lipczan\Desktop\DES\DES\DES.cpp(256,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lipczan\Desktop\DES\DES\DES.cpp(299,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lipczan\Desktop\DES\DES\DES.cpp(356,12): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\Lipczan\Desktop\DES\DES\DES.cpp(358,12): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+  DES.vcxproj -> C:\Users\Lipczan\Desktop\DES\Debug\DES.exe
